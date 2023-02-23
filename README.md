@@ -66,7 +66,7 @@ Dans cette partie, l’utilisateur a accès à des règles de grammaire, la list
 
 ## Utilisateur
 
-L’utilisateur peut créer un compte, le modifier (possibilité de modifier son pseudo ou son mot de passe, supprimer son compte, modifier son avatar, créer des listes personnalisées, ...). La progression de l’utilisateur est suivi avec un système de points et de niveaux.
+L’utilisateur peut créer un compte, le gérer (possibilité de modifier son pseudo ou son mot de passe, supprimer son compte, modifier son avatar, créer des listes personnalisées, ...). La progression de l’utilisateur est suivi avec un système de points et de niveaux.
 
 ![Page_d_accueil.png](/maquette/Accueil_-_Page_d_accueil.png)
 ![Inscription.png](/maquette/Accueil_-_Inscription.png)
